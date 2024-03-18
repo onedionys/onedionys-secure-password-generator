@@ -1,6 +1,6 @@
 {
   "name": "onedionys-secure-password-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "One Dionys (Secure Password Generator) - The function to automatically generate strong and secure passwords, assisting users in creating strong passwords.",
   "main": "src/securePasswordGenerator.js",
   "directories": {
@@ -31,6 +31,9 @@
   },
   "dependencies": {
     "jquery": "^3.7.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "onedionys-date-languange": "^2.5.1",
+    "onedionys-number-languange": "^2.5.0",
+    "onedionys-shop-builder": "^2.5.1"
   }
 }
